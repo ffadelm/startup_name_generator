@@ -20,7 +20,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Running Apps
 
-![image](https://user-images.githubusercontent.com/67732382/126259351-e59e71c1-6277-4659-af78-81a4726c2297.png)
+![image](https://user-images.githubusercontent.com/67732382/126259351-e59e71c1-6277-4659-af78-81a4726c2297.png width="150" height="280")
 
-![image](https://user-images.githubusercontent.com/67732382/126259397-3cbf7f4b-e5e6-42e1-8485-ab382e35ac71.png)
+![image](https://user-images.githubusercontent.com/67732382/126259397-3cbf7f4b-e5e6-42e1-8485-ab382e35ac71.png width="150" height="280")
 
