@@ -1,6 +1,6 @@
 # startup_name_generator
 
-A new Flutter project.
+My First Flutter project.
 
 ## Getting Started
 
